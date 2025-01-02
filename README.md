@@ -15,6 +15,7 @@
 - [Tính năng](#tính-năng)
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
+- [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 - [Xử lý lỗi thường gặp](#xử-lý-lỗi-thường-gặp)
 - [Đóng góp](#đóng-góp)
 - [Hỗ trợ](#hỗ-trợ)
@@ -49,7 +50,7 @@ CursorVN là công cụ hỗ trợ cài đặt Cursor Editor cho nhiều nền t
 ### Windows
 <div align="center">
   
-[![Download CursorVN](https://img.shields.io/badge/DOWNLOAD-CursorVN%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/linux-vps/cursorvn/releases/download/lastest/cursorvn_window.exe)
+[![Download CursorVN](https://img.shields.io/badge/DOWNLOAD-CursorVN%20for%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/linux-vps/cursorvn/releases/download/latest/cursorvn_window.exe)
 
 </div>
 
@@ -57,6 +58,49 @@ CursorVN là công cụ hỗ trợ cài đặt Cursor Editor cho nhiều nền t
 ```bash
 curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh | sudo bash
 ```
+
+## 📖 Hướng dẫn sử dụng
+
+### Khởi động ứng dụng
+- **Windows**: Chạy file `cursorvn_window.exe`
+- **Linux/MacOS**: Mở terminal và gõ lệnh `cursorvn`
+
+### Các lệnh có sẵn
+Sử dụng phím mũi tên để di chuyển và chọn các lệnh sau:
+
+- **Status**: Kiểm tra trạng thái đăng ký dịch vụ
+- **Cài đặt**: Cài đặt và kích hoạt dịch vụ
+- **Gỡ cài đặt**: Gỡ bỏ dịch vụ khỏi hệ thống
+- **Tạo mã mời**: Tạo mã mời cho bạn bè (mỗi lượt mời thành công +1 tuần sử dụng)
+- **Gia hạn dịch vụ**: Gia hạn thời gian sử dụng
+- **Chạy service**: Khởi động lại dịch vụ (chỉ sử dụng khi dịch vụ không tự khởi động)
+- **Sửa lỗi...**: Công cụ sửa lỗi tự động (chỉ sử dụng khi gặp lỗi, không lạm dụng)
+
+### Quy trình sử dụng lần đầu
+
+1. **Gia hạn dịch vụ**
+   - Chọn lệnh "Gia hạn dịch vụ"
+   - Quét mã QR hiển thị
+   - Đợi hệ thống kiểm tra và xác nhận
+   - *Lưu ý*: Nếu giao diện gia hạn không tự đóng:
+     - Chụp ảnh màn hình ở cả điện thoại và máy tính
+     - Khởi động lại ứng dụng
+     - Chạy lệnh "Status" để kiểm tra
+     - Nếu hiển thị "Còn hiệu lực" là thành công
+     - Các trường hợp khác vui lòng liên hệ hỗ trợ
+
+2. **Cài đặt dịch vụ**
+   - Đóng tất cả các ứng dụng chính
+   - Chọn lệnh "Cài đặt"
+   - Đợi khoảng 5 giây
+   - Mở lại ứng dụng chính
+   - Có thể tắt terminal sau khi hoàn tất
+
+### Sử dụng thường xuyên
+Chỉ cần mở ứng dụng CursorVN trong các trường hợp:
+- Gia hạn dịch vụ
+- Kiểm tra trạng thái
+- Sửa lỗi tự động
 
 ## ❗ Xử lý lỗi thường gặp
 
@@ -79,19 +123,8 @@ Hãy thử một trong các giải pháp sau:
 curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh | bash
 ```
 
-## 🤝 Đóng góp
-Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng! Nếu bạn muốn đóng góp:
-1. Fork dự án
-2. Tạo branch cho tính năng của bạn (`git checkout -b feature/AmazingFeature`)
-3. Commit các thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push lên branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
 ## 💬 Hỗ trợ
 Nếu bạn gặp vấn đề khi sử dụng CursorVN, vui lòng:
 - 🐛 Tạo [Issue](https://github.com/linux-vps/cursorvn/issues)
 - 💭 Hoặc tham gia thảo luận tại [Discussions](https://github.com/linux-vps/cursorvn/discussions)
 - 📧 Liên hệ qua email: [support@cursorvn.com](mailto:support@cursorvn.com)
-
-## 📄 Giấy phép
-Dự án này được phân phối dưới Giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
