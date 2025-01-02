@@ -145,8 +145,8 @@ curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh 
 <div align="center">
 
 [![Issue](https://img.shields.io/badge/Báo_Lỗi-red?style=for-the-badge&logo=github)](https://github.com/linux-vps/cursorvn/issues)
-[![Discussion](https://img.shields.io/badge/Thảo_Luận-blue?style=for-the-badge&logo=github)](https://github.com/linux-vps/cursorvn/discussions)
-[![Email](https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail)](mailto:support@cursorvn.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/hai.trung.hoang.3112/)
+[![Zalo](https://img.shields.io/badge/Nhóm_Zalo-blue?style=for-the-badge&logo=zalo)](https://zalo.me/g/fmkbyr421)
 
 </div>
 
