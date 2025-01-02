@@ -7,6 +7,9 @@
 
 ## 📥 Hướng dẫn cài đặt
 
+### Windows
+Tải file .exe trong phần Release
+
 ### Linux
 ```bash
 bash <(curl -L https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.linux.sh)
