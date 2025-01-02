@@ -1,5 +1,4 @@
-- CursorVN ( tạm thời chỉ hỗ trợ Windows, Linux)
-- MacOS đang cập nhật dần
+v0.0.1
 
 Cài đặt cho Linux:
 ```bash
