@@ -16,7 +16,7 @@ case "${OS}" in
         apt install -y wget
         
         # Tải file thực thi
-        wget -q https://github.com/linux-vps/cursorvn/releases/download/lastest/cursorvn_linux -O /usr/local/bin/cursorvn
+        wget -q https://github.com/linux-vps/cursorvn/releases/download/latest/cursorvn_linux -O /usr/local/bin/cursorvn
         
         # Cấp quyền thực thi
         chmod +x /usr/local/bin/cursorvn
