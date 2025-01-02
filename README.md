@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/linux-vps/cursorvn?style=social)](https://github.com/linux-vps/cursorvn/stargazers)
 
-**🚀 Công cụ cài đặt và quản lý Cursor Editor đa nền tảng**
+**🚀 CursorVN trải nghiệm vip pro**
 
 [Tải xuống](#-hướng-dẫn-cài-đặt) • [Tài liệu](#-hướng-dẫn-sử-dụng) • [Báo lỗi](https://github.com/linux-vps/cursorvn/issues) • [Thảo luận](https://github.com/linux-vps/cursorvn/discussions)
 
@@ -20,7 +20,6 @@
 ## 📝 Mục lục
 - [Tổng quan](#-giới-thiệu)
 - [Tính năng nổi bật](#-tính-năng)
-- [Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
 - [Cài đặt](#-hướng-dẫn-cài-đặt)
 - [Hướng dẫn](#-hướng-dẫn-sử-dụng)
 - [Xử lý sự cố](#-xử-lý-lỗi-thường-gặp)
@@ -28,7 +27,7 @@
 
 ## 🚀 Giới thiệu
 
-CursorVN là giải pháp tối ưu để cài đặt và quản lý Cursor Editor trên đa nền tảng. Được thiết kế với trọng tâm là tính đơn giản và hiệu quả, CursorVN giúp người dùng dễ dàng triển khai Cursor Editor trên:
+CursorVN hỗ trợ trải nghiệm vip pro không giới hạn gì, có trên:
 
 - 🪟 Windows
 - 🐧 Linux
@@ -46,22 +45,9 @@ CursorVN là giải pháp tối ưu để cài đặt và quản lý Cursor Edit
 | 🌐 Đa nền tảng | Hỗ trợ Windows, Linux và MacOS |
 | 🛠️ Quản lý dependencies | Tự động xử lý các gói phụ thuộc |
 | 📦 Cập nhật tự động | Luôn cập nhật phiên bản mới nhất |
-| 🔒 Bảo mật cao | An toàn và đáng tin cậy |
 
 </div>
 
-## 💻 Yêu cầu hệ thống
-
-<details>
-<summary>Chi tiết cấu hình tối thiểu</summary>
-
-| Hệ điều hành | Phiên bản | CPU | RAM | Dung lượng |
-|--------------|-----------|-----|-----|------------|
-| Windows | 10 trở lên | AMD x64 | 4GB | 1GB trống |
-| Linux | Các bản phân phối phổ biến | AMD x64 | 4GB | 1GB trống |
-| MacOS | 10.15 trở lên | AMD x64 | 4GB | 1GB trống |
-
-</details>
 
 ## 📥 Hướng dẫn cài đặt
 
