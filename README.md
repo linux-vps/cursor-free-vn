@@ -1,4 +1,4 @@
-# CursorVN 🚀
+# CursorVN 
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-## 📝 Giới thiệu
+## Giới thiệu
 
 > CursorVN là công cụ hỗ trợ cài đặt Cursor Editor cho nhiều nền tảng khác nhau. Hiện tại hỗ trợ:
 > - Windows
@@ -18,7 +18,7 @@
 >
 > ⚠️ *Lưu ý: Công cụ được tối ưu cho chip AMD x64. Các loại chip khác cần thử nghiệm để xác nhận khả năng tương thích.*
 
-## 📥 Hướng dẫn cài đặt
+## Hướng dẫn cài đặt
 
 ### Windows
 <div align="center">
@@ -27,17 +27,12 @@
 
 </div>
 
-### Linux
+### Linux/MacOS
 ```bash
-bash <(curl -L https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.linux.sh)
+curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh | sudo bash
 ```
 
-### MacOS
-```bash
-bash <(curl -L https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh)
-```
-
-## 🔧 Xử lý lỗi thường gặp
+## Xử lý lỗi thường gặp
 
 ### Lỗi Syntax Error
 Nếu bạn gặp lỗi sau khi chạy script:
@@ -58,16 +53,16 @@ Hãy thử một trong các giải pháp sau:
 curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh | bash
 ```
 
-## 📋 Yêu cầu hệ thống
+## Yêu cầu hệ thống
 - **Windows**: Windows 10 trở lên
 - **Linux**: Các bản phân phối Linux phổ biến
 - **MacOS**: MacOS 10.15 trở lên
 - **CPU**: AMD x64
 
-## 📞 Hỗ trợ
+## Hỗ trợ
 Nếu bạn gặp vấn đề khi sử dụng CursorVN, vui lòng:
 - Tạo [Issue](https://github.com/linux-vps/cursorvn/issues)
 - Hoặc liên hệ qua [Discussions](https://github.com/linux-vps/cursorvn/discussions)
 
-## 📜 License
+## License
 MIT License - Copyright (c) 2024 CursorVN
