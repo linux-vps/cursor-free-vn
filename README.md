@@ -131,4 +131,12 @@ Nếu bạn gặp vấn đề khi sử dụng CursorVN, vui lòng:
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=linux-vps/cursorvn&type=Date)](https://star-history.com/#linux-vps/cursorvn&Date)
+## Star History
+
+<a href="https://star-history.com/#linux-vps/cursorvn&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=linux-vps/cursorvn&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=linux-vps/cursorvn&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=linux-vps/cursorvn&type=Date" />
+ </picture>
+</a>
