@@ -64,5 +64,3 @@ Nếu bạn gặp vấn đề khi sử dụng CursorVN, vui lòng:
 - Tạo [Issue](https://github.com/linux-vps/cursorvn/issues)
 - Hoặc liên hệ qua [Discussions](https://github.com/linux-vps/cursorvn/discussions)
 
-## License
-MIT License - Copyright (c) 2024 CursorVN
