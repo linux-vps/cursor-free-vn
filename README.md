@@ -1,2 +1,2 @@
-- Cursor miễn phí ( tạm thời chỉ hỗ trợ Windows)
+- Cursor ez ( tạm thời chỉ hỗ trợ Windows)
 - Linux và MacOS đang cập nhật dần
