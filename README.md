@@ -1,23 +1,37 @@
-v0.0.1
+# CursorVN
 
-Cài đặt cho Linux:
+> Công cụ hỗ trợ cài đặt Cursor cho Linux và MacOS
+
+![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
+
+## 📥 Hướng dẫn cài đặt
+
+### Linux
 ```bash
 bash <(curl -L https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.linux.sh)
 ```
 
-Cài đặt cho MacOS:
+### MacOS
 ```bash
 bash <(curl -L https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh)
 ```
 
-Trong trường hợp gặp lỗi:
-  sh: syntax error near unexpected token `('
-  sh: syntax error near unexpected token `('
+## 🔧 Xử lý lỗi
 
-có thể thử các lệnh dưới đây: 
+Nếu bạn gặp lỗi sau:
+```
+sh: syntax error near unexpected token `('
+sh: syntax error near unexpected token `('
+```
+
+Hãy thử một trong các cách sau:
+
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh)"
 ```
+
+hoặc
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh | bash
 ```
