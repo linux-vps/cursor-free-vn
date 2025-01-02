@@ -1,6 +1,6 @@
 # CursorVN
 
-> Công cụ hỗ trợ cài đặt Cursor cho Linux và MacOS
+> Công cụ hỗ trợ cài đặt Cursor cho Windows, Linux và MacOS các loại chip amd x64
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
 
