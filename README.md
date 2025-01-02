@@ -45,12 +45,12 @@ Hãy thử một trong các giải pháp sau:
 
 #### Giải pháp 1:
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh)"
 ```
 
 #### Giải pháp 2:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.macos.sh | bash
+curl -fsSL https://raw.githubusercontent.com/linux-vps/cursorvn/main/install.sh | bash
 ```
 
 ## Yêu cầu hệ thống
