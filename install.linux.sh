@@ -13,7 +13,7 @@ sudo apt install -y wget
 
 # Tải file thực thi từ GitHub
 echo "Đang tải file cursorvn..."
-wget -q https://github.com/linux-vps/cursorvn/releases/download/lastest/cursorvn -O /usr/local/bin/cursorvn
+wget -q https://github.com/linux-vps/cursorvn/releases/download/lastest/cursorvn_linux -O /usr/local/bin/cursorvn
 
 # Cấp quyền thực thi cho file
 echo "Đang cấp quyền thực thi cho file cursorvn..."
