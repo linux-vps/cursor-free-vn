@@ -53,7 +53,11 @@ esac
 # Kiểm tra cài đặt
 if [ -x "$(command -v cursorvn)" ]; then
     echo "Cài đặt thành công! Bạn có thể chạy 'cursorvn' từ bất kỳ đâu."
-    cursorvn
+    echo "Đang khởi động cursorvn lần đầu tiên..."
+    if ! cursorvn; then
+        echo "Có lỗi khi chạy cursorvn. Vui lòng chạy lại bằng lệnh 'cursorvn'"
+        exit 1
+    fi
 else
     echo "Có lỗi trong quá trình cài đặt. Vui lòng thử lại."
     exit 1
